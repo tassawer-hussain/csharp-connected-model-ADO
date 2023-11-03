@@ -1,0 +1,8 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\connectedModelADO\connectedModelADO\bin\Debug\connectedModelADO.exe.config
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\bin\Debug\conModelDB.mdf
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\bin\Debug\conModelDB_log.ldf
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\bin\Debug\connectedModelADO.exe
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\bin\Debug\connectedModelADO.pdb
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\obj\Debug\connectedModelADO.csprojResolveAssemblyReference.cache
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\obj\Debug\connectedModelADO.exe
+C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\connectedModelADO\connectedModelADO\obj\Debug\connectedModelADO.pdb
